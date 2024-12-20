@@ -1,6 +1,6 @@
-## SMGAE: A novel self-supervised masked graph autoencoder for identifying cancer driver genes.
+# SMGAE: A novel self-supervised masked graph autoencoder for identifying cancer driver genes.
 
-# Dependencies
+## Dependencies
 Higher versions should be also available.
 
 + numpy==1.21.6
